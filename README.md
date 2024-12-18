@@ -4,6 +4,6 @@ To delete a message:
 
 2- write the same date as the note.
 
-3- press space and hit enter.
+3- dont write anything and keep it empty. then hit enter.
 
 if you have any more questions contact with us.
